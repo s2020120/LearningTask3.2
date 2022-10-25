@@ -14,6 +14,9 @@ public class SplashActivity extends AppCompatActivity {
         setContentView(R.layout.splash);
 
         super.onCreate(savedInstanceState);
+        if (getSupportActionBar() != null) {
+            getSupportActionBar().hide();
+        }
         MediaPlayer appIntro;
         appIntro = MediaPlayer.create(SplashActivity.this,R.raw.app_intro);
         appIntro.start();

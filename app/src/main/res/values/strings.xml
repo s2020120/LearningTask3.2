@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">splashscreen</string>
     <string name="icon_holder">Icon Holder</string>
-    <string name="app_desc1">Backpack</string>
-    <string name="app_desc2">Duffel Bag</string>
-    <string name="app_desc3">Fanny Pack</string>
-    <string name="app_desc4">Sling Bag</string>
     <string name="app_title">Kinds of Bags</string>
+    <string name="bag_name1">Backpack</string>
+    <string name="bag_name2">Duffel Bag</string>
+    <string name="bag_name3">Backpack</string>
+    <string name="bag_name4">Backpack</string>
 </resources>
